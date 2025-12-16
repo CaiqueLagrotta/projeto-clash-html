@@ -1,0 +1,12 @@
+    
+      body {
+        background-image: linear-gradient(to bottom, #4169e1 20%, #714FA9, #A03571,#D01B39,  #ff0000) ;
+        background-attachment: fixed;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 1.25em;
+      }
+
+      .links {
+        color: #fff;
+      }
+ 
